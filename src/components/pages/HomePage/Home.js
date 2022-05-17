@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
         <SunnahSection {...homeObjOne}/>
-        <SunnahSection id='kalender' {...homeObjTwo}/>
+        <SunnahSection {...homeObjTwo}/>
         <SunnahSection {...homeObjThree}/>
         <SunnahSection {...homeObjFour}/>
     </>

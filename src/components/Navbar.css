@@ -6,7 +6,6 @@
     align-items: center;
     font-size: 1.2rem;
     position: sticky;
- 
     z-index: 999;
   }
   
@@ -46,7 +45,7 @@
     justify-content: center;
     list-style: none;
     text-align: center;
-    justify-content: end;
+    justify-content: flex-end;
   }
   
   .nav-item {

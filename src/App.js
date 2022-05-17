@@ -17,8 +17,6 @@ function App() {
         <Route path='/kalender' element={<Kalender />} />
         <Route path='/projekte' element={<Projekte />} />
         <Route path='/sunnahs' element={<Sunnah />} />
-
-
       </Routes>
       <Footer />
     </div>

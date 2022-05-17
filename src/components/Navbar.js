@@ -6,7 +6,7 @@ import { FaBars, FaTimes } from 'react-icons/fa'
 import { IconContext } from 'react-icons/lib'
 import './Navbar.css'
 
-export default function () {
+export default  function Navbar() {
     const [click, setClick] = useState(false)
     const [button, setButton] = useState(true)
 
